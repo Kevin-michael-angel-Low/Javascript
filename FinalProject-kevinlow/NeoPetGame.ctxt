@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NeoPetGame
+comment1.params=
+comment1.target=NeoPetGame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NeoPetGame\r\n
+comment2.params=
+comment2.target=void\ playGame()
+comment2.text=\r\n\ \ \ \ \ Methods\r\n
+comment3.params=
+comment3.target=void\ petShop()
+comment4.params=
+comment4.target=void\ guessingGame()
+comment5.params=
+comment5.target=void\ selectPet()
+comment6.params=
+comment6.target=void\ interactPet()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

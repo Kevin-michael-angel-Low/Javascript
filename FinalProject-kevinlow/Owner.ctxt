@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Owner
+comment1.params=name\ money
+comment1.target=Owner(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Owner\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Pet\ getFirstPet()
+comment2.text=\r\n\ Methods\r\n
+comment3.params=
+comment3.target=Pet\ getSecondPet()
+comment4.params=
+comment4.target=Pet\ getThirdPet()
+comment5.params=
+comment5.target=int\ getMoney()
+comment6.params=cash
+comment6.target=void\ addCoins(int)
+comment7.params=cash
+comment7.target=void\ removeCoins(int)
+comment8.params=addPet
+comment8.target=boolean\ addPet(Pet)
+comment9.params=
+comment9.target=int\ getNumPets()
+numComments=11
